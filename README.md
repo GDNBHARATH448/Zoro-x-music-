@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/Fumkies">
-    <img src="https://graph.org/file/79cecf4065e12684b9ddf-64b50b478e9b9f4069.jpg" width="400">
+    <img src="https://files.catbox.moe/455o3m.jpg" width="400">
   </a>
 </p>
 
